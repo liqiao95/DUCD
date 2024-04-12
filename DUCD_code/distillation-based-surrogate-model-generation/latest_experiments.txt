@@ -1,0 +1,11 @@
+/root/project/log_substitute_train/resnet34_8x_resnet18_8x_cifar10_split_5.0
+/root/project/log_substitute_train/resnet34_8x_resnet18_8x_cifar10_split_5.0
+/root/project/log_substitute_train/resnet34_8x_resnet18_8x_cifar10_split_10.0
+/root/project/log_substitute_train/resnet34_8x_resnet18_8x_cifar10_split_20.0
+/root/project/log_substitute_train/resnet34_8x_resnet18_8x_cifar10_split_15.0
+/root/project/log_substitute_train/resnet34_8x_resnet18_8x_cifar101_5.0
+/root/project/log_substitute_train/resnet34_8x_resnet18_8x_cifar101_5.0
+/root/project/log_substitute_train/resnet34_8x_resnet18_8x_cifar101_5.0
+/root/project/log_substitute_train/resnet34_8x_resnet18_8x_cifar101_5.0
+/root/project/log_substitute_train/resnet34_8x_resnet18_8x_cifar101_10.0
+/root/project/log_substitute_train/resnet34_8x_resnet18_8x_cifar101_15.0
